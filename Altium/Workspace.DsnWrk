@@ -1,0 +1,12 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=WS2812\WS2812.PrjPcb
+[Project2]
+ProjectPath=Panels_Finished\Panels_Finished.PrjPcb
+[Project3]
+ProjectPath=ESP12Ebreakout\ESP8266-12E_breakout.PrjPcb
+[Project4]
+ProjectPath=ESP12Ebreakout_v2\ESP12Ebreakout_v2.PrjPcb
+[Project5]
+ProjectPath=..\Project2\Hardware\Project2Altium\Project2Altium.PrjPcb
